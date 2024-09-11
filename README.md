@@ -7,3 +7,4 @@ Please use the following format:<br>
 
 The following is a list of volunteers accepted:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Zie Lim, [Linkedin](https://www.linkedin.com/in/zie-lim/).
